@@ -1,0 +1,14 @@
+Group members: Brook Kassa kassa065 and Andrew Carlson carl6090
+
+Contribution: Both partners Worked on all files equally
+
+How to compile and run your program:
+Complile all java files in the zip folder then run FractalDrawer
+
+Any assumptions: We already made the predetermined dimensions
+
+Bugs:
+Sometimes when the fractal shape is being drawn you might need to minimize the canvas window and open it again
+
+additional features:
+N/A
